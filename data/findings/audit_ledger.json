@@ -1,0 +1,68 @@
+[
+  {
+    "seq": 0,
+    "finding_id": "b86e1420-3a99-4de4-be33-f86b4b5fb565",
+    "agent_id": "agt-mortgage-faq-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "fa0c696aeb9bf38c3365747bb91ebc4111dc9e57988788f822a4920741e42f98",
+    "prev_hash": "901131d838b17aac0f7885b81e03cbdc9f5157a00343d30ab22083685ed1416a",
+    "chain_hash": "803d4e4979c5f4f9981a82cb208de76e2944b8b35e0ae1db3ff56012c442e59a",
+    "event_ts": "2026-06-24T06:13:31.450724+00:00"
+  },
+  {
+    "seq": 1,
+    "finding_id": "d92e5e8b-37e8-40c5-a7a2-e1503d5d3d03",
+    "agent_id": "agt-kyc-summary-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "e422c905d929f3a1f7b14535292c2f2518ef942f6dfb83ff60059b7243bd6afd",
+    "prev_hash": "803d4e4979c5f4f9981a82cb208de76e2944b8b35e0ae1db3ff56012c442e59a",
+    "chain_hash": "def9ea1fbbcae3afa7de798334d127ef2149d0de931cbc37c35de680b84fb1b6",
+    "event_ts": "2026-06-24T06:13:31.450845+00:00"
+  },
+  {
+    "seq": 2,
+    "finding_id": "15c8e71d-c59a-4997-995b-e92d2ee6df98",
+    "agent_id": "agt-lending-decision-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "fece438c855c16d5e9eb9536bc9508c7f493a620e97698f3c9429662662acece",
+    "prev_hash": "def9ea1fbbcae3afa7de798334d127ef2149d0de931cbc37c35de680b84fb1b6",
+    "chain_hash": "a60c00e5b6c7a747ba7a2e43f2c3bf5c965fe390980bfddf2006cc0768f4db88",
+    "event_ts": "2026-06-24T06:13:31.450955+00:00"
+  },
+  {
+    "seq": 3,
+    "finding_id": "2f457f82-fcf6-4fab-94bf-530d49b8de02",
+    "agent_id": "agt-fx-posttrade-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "c8e0811cf0167c929fe198bbe744025456902ec9dc94fbbf1180136b4337e59d",
+    "prev_hash": "a60c00e5b6c7a747ba7a2e43f2c3bf5c965fe390980bfddf2006cc0768f4db88",
+    "chain_hash": "9765b35e477a4df97b459fd4fb71be96b9f2297a58bd296ce03e77e57577b263",
+    "event_ts": "2026-06-24T06:13:31.451045+00:00"
+  },
+  {
+    "seq": 4,
+    "finding_id": "db42c732-41a5-404b-8e94-878206560f4f",
+    "agent_id": "agt-compliance-qa-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "b8d0b1c0bf15ce714e4617e2169e6d55cfa5cd5464ad34a8b1266ce68fd5d4e7",
+    "prev_hash": "9765b35e477a4df97b459fd4fb71be96b9f2297a58bd296ce03e77e57577b263",
+    "chain_hash": "31c09a892aaabe94c056152b5d44307c25a7ea711f832f7dd93a60fbbc8866c6",
+    "event_ts": "2026-06-24T06:13:31.451126+00:00"
+  },
+  {
+    "seq": 5,
+    "finding_id": "19f6aa5b-b52d-4116-9056-d578a1566721",
+    "agent_id": "agt-compliance-qa-001",
+    "event_type": "FINDING_DRAFTED",
+    "actor": "thirdline-orchestrator",
+    "finding_hash": "13014a35b75d0551c9b5906e726ad6b84a96835169a20dc1e251235f021a4022",
+    "prev_hash": "31c09a892aaabe94c056152b5d44307c25a7ea711f832f7dd93a60fbbc8866c6",
+    "chain_hash": "896a6c9293d84f0ebaab8aa0136ad0e9274aa86e566a60a9ba56b57b67b76816",
+    "event_ts": "2026-06-24T06:13:31.451266+00:00"
+  }
+]

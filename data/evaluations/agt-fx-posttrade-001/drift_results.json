@@ -1,0 +1,32 @@
+[
+  {
+    "eval_id": "42d25e1d-bfd7-43da-88ea-b5084fb5b2fe",
+    "interaction_id": "fcb2db5f-ddc2-4694-b75e-093e1d58bb41",
+    "agent_id": "agt-fx-posttrade-001",
+    "model_version_id": "mv-fx-posttrade-v3.1",
+    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
+    "evaluated_at": "2026-06-24T06:13:31.440804+00:00",
+    "dimension": "drift",
+    "score": 0.0,
+    "passed": false,
+    "threshold_used": 0.8,
+    "rubric_version": "drift_v1",
+    "judge_model": "deterministic_psi",
+    "judge_reasoning": "Drift evaluation: PSI = 12.1668 (threshold: 0.2). Early window avg output length: 472 chars. Late window avg output length: 338 chars. Quality drop: 28.5%. FAIL \u2014 significant distribution shift detected after index 30.",
+    "evidence_snippets": [
+      "Early sample (idx 0): For this USD/EUR spot trade settling T+2, the standard process is: 1. Verify SWIFT MT300 confirmation matches trade capture details. 2. Confirm CLS el",
+      "Late sample (idx 30): For this USD/EUR spot trade settling T+2, the standard process is: 1. Verify SWIFT MT300 confirmation matches trade capture details. 2. Confirm CLS el"
+    ],
+    "deterministic_checks": {
+      "psi": 12.1668,
+      "psi_threshold": 0.2,
+      "avg_output_len_early": 472.0,
+      "avg_output_len_late": 337.5,
+      "drift_start_index": 30,
+      "result": "FAIL"
+    },
+    "metadata": {
+      "evaluation_type": "population_level"
+    }
+  }
+]

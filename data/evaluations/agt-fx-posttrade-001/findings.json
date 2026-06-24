@@ -1,0 +1,27 @@
+[
+  {
+    "finding_id": "2f457f82-fcf6-4fab-94bf-530d49b8de02",
+    "agent_id": "agt-fx-posttrade-001",
+    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
+    "control_id": "CTRL-003",
+    "dimension": "drift",
+    "severity": "MEDIUM",
+    "title": "Drift Failure Detected \u2014 agt-fx-posttrade-001",
+    "description": "During evaluation of agent 'agt-fx-posttrade-001', ThirdLine detected 1 interaction(s) that failed the drift evaluation dimension. This constitutes a failure of control CTRL-003 \u2014 AI Model Drift Detection and Response, which requires adherence to the 'Ongoing Monitoring and Performance Stability' principle. The average evaluation score for this dimension was 0.00 (threshold: 0.80). The most significant failure had a score of 0.00. Specific evidence: Drift evaluation: PSI = 12.1668 (threshold: 0.2). Early window avg output length: 472 chars. Late window avg output length: 338 chars. Quality drop: 28.5%. FAIL \u2014 significant distribution shift detected after index 30.. This finding requires review by a human auditor before finalisation.",
+    "evidence_summary": "1 of 1 interactions failed the drift evaluation. Average score: 0.00. Minimum score: 0.00.",
+    "evidence_interaction_ids": [
+      "fcb2db5f-ddc2-4694-b75e-093e1d58bb41"
+    ],
+    "recommended_action": "1. Identify the drift start point (which interaction index quality changed). 2. Analyse input distribution changes that correlate with the drift point. 3. Determine if the agent needs re-prompting, retraining, or scope restriction. 4. Implement input distribution monitoring in production. 5. Set automated re-evaluation triggers when PSI exceeds 0.10.",
+    "status": "PENDING_REVIEW",
+    "drafted_by_agent": "evaluation-engine",
+    "drafted_at": "2026-06-24T06:13:31.440853+00:00",
+    "failure_count": 1,
+    "total_evaluated": 1,
+    "avg_score": 0.0,
+    "min_score": 0.0,
+    "top_evidence": [
+      "Drift evaluation: PSI = 12.1668 (threshold: 0.2). Early window avg output length: 472 chars. Late window avg output length: 338 chars. Quality drop: 28.5%. FAIL \u2014 significant distribution shift detected after index 30."
+    ]
+  }
+]

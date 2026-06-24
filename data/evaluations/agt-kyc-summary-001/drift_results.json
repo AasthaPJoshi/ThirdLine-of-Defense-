@@ -1,0 +1,32 @@
+[
+  {
+    "eval_id": "869170f7-c559-46f8-9280-334ab7e386af",
+    "interaction_id": "bc2b5b6a-3d43-489b-ad53-ceff5d3d69c0",
+    "agent_id": "agt-kyc-summary-001",
+    "model_version_id": "mv-kyc-summary-v2.0",
+    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
+    "evaluated_at": "2026-06-24T06:13:31.420820+00:00",
+    "dimension": "drift",
+    "score": 1.0,
+    "passed": true,
+    "threshold_used": 0.8,
+    "rubric_version": "drift_v1",
+    "judge_model": "deterministic_psi",
+    "judge_reasoning": "Drift evaluation: PSI = 0.0000 (threshold: 0.2). Early window avg output length: 408 chars. Late window avg output length: 408 chars. Quality drop: 0.0%. PASS \u2014 stable output distribution.",
+    "evidence_snippets": [
+      "Early sample (idx 0): KYC SUMMARY\n\nCustomer: John Smith | Account Type: Individual Checking\nDocument Verification: Government-issued photo ID \u2014 VERIFIED | Proof of address ",
+      "Late sample (idx 30): KYC SUMMARY\n\nCustomer: John Smith | Account Type: Individual Checking\nDocument Verification: Government-issued photo ID \u2014 VERIFIED | Proof of address "
+    ],
+    "deterministic_checks": {
+      "psi": 0.0,
+      "psi_threshold": 0.2,
+      "avg_output_len_early": 407.6,
+      "avg_output_len_late": 407.6,
+      "drift_start_index": 30,
+      "result": "PASS"
+    },
+    "metadata": {
+      "evaluation_type": "population_level"
+    }
+  }
+]

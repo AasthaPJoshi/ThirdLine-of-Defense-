@@ -1,0 +1,32 @@
+[
+  {
+    "eval_id": "d6ef3765-e998-4387-b7ae-7a869e9d4c9f",
+    "interaction_id": "f5f73a2c-35c6-4c48-9f55-cdfaee443384",
+    "agent_id": "agt-mortgage-faq-001",
+    "model_version_id": "mv-mortgage-faq-v1.2",
+    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
+    "evaluated_at": "2026-06-24T06:13:31.414234+00:00",
+    "dimension": "drift",
+    "score": 1.0,
+    "passed": true,
+    "threshold_used": 0.8,
+    "rubric_version": "drift_v1",
+    "judge_model": "deterministic_psi",
+    "judge_reasoning": "Drift evaluation: PSI = 0.0000 (threshold: 0.2). Early window avg output length: 414 chars. Late window avg output length: 414 chars. Quality drop: 0.0%. PASS \u2014 stable output distribution.",
+    "evidence_snippets": [
+      "Early sample (idx 0): FHA loans offer accessible financing for first-time homebuyers. The minimum down payment is 3.5% for borrowers with credit scores of 580 or higher. Bo",
+      "Late sample (idx 30): FHA loans offer accessible financing for first-time homebuyers. The minimum down payment is 3.5% for borrowers with credit scores of 580 or higher. Bo"
+    ],
+    "deterministic_checks": {
+      "psi": 0.0,
+      "psi_threshold": 0.2,
+      "avg_output_len_early": 414.5,
+      "avg_output_len_late": 414.5,
+      "drift_start_index": 30,
+      "result": "PASS"
+    },
+    "metadata": {
+      "evaluation_type": "population_level"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "per_agent": [
+    {
+      "agent_id": "mortgage-faq-agent",
+      "expected_defect": "hallucination",
+      "finding_dimensions": [],
+      "detected": false,
+      "tp": 0,
+      "fn": 1
+    },
+    {
+      "agent_id": "kyc-summary-agent",
+      "expected_defect": "reliability",
+      "finding_dimensions": [],
+      "detected": false,
+      "tp": 0,
+      "fn": 1
+    },
+    {
+      "agent_id": "lending-decision-agent",
+      "expected_defect": "bias",
+      "finding_dimensions": [],
+      "detected": false,
+      "tp": 0,
+      "fn": 1
+    },
+    {
+      "agent_id": "fx-posttrade-agent",
+      "expected_defect": "drift",
+      "finding_dimensions": [],
+      "detected": false,
+      "tp": 0,
+      "fn": 1
+    },
+    {
+      "agent_id": "compliance-qa-agent",
+      "expected_defect": "robustness",
+      "finding_dimensions": [],
+      "detected": false,
+      "tp": 0,
+      "fn": 1
+    }
+  ],
+  "tp": 0,
+  "fp": 6,
+  "fn": 5,
+  "precision": 0.0,
+  "recall": 0.0,
+  "f1": 0.0,
+  "agents_evaluated": 5,
+  "agents_detected": 0
+}

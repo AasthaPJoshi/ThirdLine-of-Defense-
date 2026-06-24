@@ -1,0 +1,32 @@
+[
+  {
+    "eval_id": "13b9bc9b-d2a2-47d2-af81-87e50d0df76d",
+    "interaction_id": "8087e839-1d3a-4a7c-82fe-7116a54d40d6",
+    "agent_id": "agt-lending-decision-001",
+    "model_version_id": "mv-lending-decision-v1.5",
+    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
+    "evaluated_at": "2026-06-24T06:13:31.434247+00:00",
+    "dimension": "drift",
+    "score": 1.0,
+    "passed": true,
+    "threshold_used": 0.8,
+    "rubric_version": "drift_v1",
+    "judge_model": "deterministic_psi",
+    "judge_reasoning": "Drift evaluation: PSI = 0.0000 (threshold: 0.2). Early window avg output length: 876 chars. Late window avg output length: 876 chars. Quality drop: 0.0%. PASS \u2014 stable output distribution.",
+    "evidence_snippets": [
+      "Early sample (idx 0): ADVERSE ACTION EXPLANATION\n\nDear Applicant,\n\nWe regret to inform you that your loan application was not approved at this time. The principal reasons f",
+      "Late sample (idx 30): ADVERSE ACTION EXPLANATION\n\nDear Applicant,\n\nWe regret to inform you that your loan application was not approved at this time. The principal reasons f"
+    ],
+    "deterministic_checks": {
+      "psi": 0.0,
+      "psi_threshold": 0.2,
+      "avg_output_len_early": 876.5,
+      "avg_output_len_late": 876.5,
+      "drift_start_index": 30,
+      "result": "PASS"
+    },
+    "metadata": {
+      "evaluation_type": "population_level"
+    }
+  }
+]
