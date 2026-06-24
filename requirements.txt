@@ -1,0 +1,94 @@
+# =============================================================================
+# ThirdLine — Python Dependencies
+# =============================================================================
+# Pinned for reproducibility. Run: pip install -r requirements.txt
+# Python >= 3.11 required.
+#
+# Structure:
+#   [1] Core / config
+#   [2] GCP cloud clients
+#   [3] Data engineering
+#   [4] AI / LLM / agents
+#   [5] ML / evaluation
+#   [6] API layer
+#   [7] Observability / testing
+# =============================================================================
+
+# ── [1] Core / config ────────────────────────────────────────────────────────
+python-dotenv==1.0.1           # .env file loading
+pydantic==2.7.1                # data validation and settings
+pydantic-settings==2.3.0       # settings management from env
+tenacity==8.3.0                # retry logic for API calls
+structlog==24.1.0              # structured JSON logging
+rich==13.7.1                   # beautiful terminal output
+click==8.1.7                   # CLI interface
+httpx==0.27.0                  # async HTTP client
+
+# ── [2] GCP cloud clients ─────────────────────────────────────────────────────
+google-cloud-bigquery==3.23.1          # BigQuery client
+google-cloud-pubsub==2.21.3            # Pub/Sub publisher + subscriber
+google-cloud-storage==2.17.0           # Cloud Storage client
+google-cloud-aiplatform==1.57.0        # Vertex AI client
+google-cloud-dataflow==0.1.1           # Dataflow management
+google-cloud-logging==3.10.0           # Cloud Logging client
+google-auth==2.29.0                    # GCP authentication
+google-auth-oauthlib==1.2.0            # OAuth flow
+db-dtypes==1.2.0                       # BigQuery → pandas type support
+
+# ── [3] Data engineering ──────────────────────────────────────────────────────
+apache-beam[gcp]==2.56.0               # Dataflow / Beam pipeline
+pandas==2.2.2                          # DataFrame operations
+pyarrow==16.0.0                        # Arrow format for BigQuery
+faker==25.0.0                          # Synthetic data generation
+presidio-analyzer==2.2.354             # PII detection
+presidio-anonymizer==2.2.354           # PII redaction
+spacy==3.7.4                           # NLP (Presidio dependency)
+great-expectations==0.18.15            # Data quality checkpoints
+dbt-bigquery==1.8.1                    # dbt for BigQuery
+dbt-core==1.8.1                        # dbt core
+
+# ── [4] AI / LLM / agents ────────────────────────────────────────────────────
+anthropic==0.28.0                      # Claude API (fallback LLM)
+openai==1.30.1                         # OpenAI API (optional)
+google-generativeai==0.7.2             # Gemini API direct
+langchain==0.2.3                       # LangChain core
+langchain-google-vertexai==1.0.5       # Vertex AI LangChain integration
+langchain-community==0.2.4             # Community integrations
+langgraph==0.1.5                       # LangGraph agent framework
+langsmith==0.1.67                      # LangSmith tracing
+chromadb==0.5.0                        # Local vector store (MVP RAG)
+tiktoken==0.7.0                        # Token counting
+pypdf==4.2.0                           # PDF reading (policy corpus)
+sentence-transformers==3.0.1           # Embedding models
+
+# ── [5] ML / evaluation ───────────────────────────────────────────────────────
+scikit-learn==1.5.0                    # Isolation Forest, PSI, metrics
+xgboost==2.0.3                         # XGBoost classifier
+lightgbm==4.3.0                        # LightGBM classifier
+shap==0.45.1                           # SHAP explainability
+numpy==1.26.4                          # Numerical computing
+scipy==1.13.0                          # Statistical tests
+imbalanced-learn==0.12.3               # Class imbalance handling
+matplotlib==3.9.0                      # Plotting (notebooks)
+seaborn==0.13.2                        # Statistical visualisation
+plotly==5.22.0                         # Interactive charts
+jupyter==1.0.0                         # Notebooks
+ipykernel==6.29.4                      # Jupyter kernel
+
+# ── [6] API layer ─────────────────────────────────────────────────────────────
+fastapi==0.111.0                       # FastAPI framework
+uvicorn[standard]==0.30.1              # ASGI server
+python-jose[cryptography]==3.3.0       # JWT tokens (RBAC)
+passlib[bcrypt]==1.7.4                 # Password hashing
+python-multipart==0.0.9                # File upload support
+
+# ── [7] Observability / testing ───────────────────────────────────────────────
+opentelemetry-api==1.24.0              # OTel API
+opentelemetry-sdk==1.24.0              # OTel SDK
+opentelemetry-exporter-gcp-trace==1.6.0  # GCP trace exporter
+pytest==8.2.1                          # Test framework
+pytest-asyncio==0.23.7                 # Async test support
+pytest-cov==5.0.0                      # Coverage reporting
+httpx==0.27.0                          # HTTP client for API tests
+freezegun==1.5.1                       # Time mocking in tests
+responses==0.25.3                      # HTTP mocking

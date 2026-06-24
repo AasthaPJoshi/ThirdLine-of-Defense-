@@ -1,0 +1,35 @@
+{
+  "run_id": "fleet-run-20260624-055256",
+  "run_start": "2026-06-24T05:52:56.548385+00:00",
+  "run_end": "2026-06-24T05:53:12.191408+00:00",
+  "duration_seconds": 15.643023,
+  "agents_run": 5,
+  "interactions_per_agent": 50,
+  "total_interactions": 250,
+  "total_injected_defects": 60,
+  "defect_rate": 0.24,
+  "per_agent_counts": {
+    "agt-mortgage-faq-001": {
+      "total": 50,
+      "defects": 5
+    },
+    "agt-kyc-summary-001": {
+      "total": 50,
+      "defects": 5
+    },
+    "agt-lending-decision-001": {
+      "total": 50,
+      "defects": 25
+    },
+    "agt-fx-posttrade-001": {
+      "total": 50,
+      "defects": 20
+    },
+    "agt-compliance-qa-001": {
+      "total": 50,
+      "defects": 5
+    }
+  },
+  "output_dir": "/Users/aasthajoshi/Documents/ThirdLine/data/interactions",
+  "next_step": "python scripts/run_audit.py"
+}
