@@ -126,6 +126,10 @@ class Settings(BaseSettings):
     ANTHROPIC_API_KEY: str = Field(default="")
     CLAUDE_MODEL: str = Field(default="claude-sonnet-4-6")
 
+    # OpenAI (primary LLM judge)
+    OPENAI_API_KEY: str = Field(default="")
+    OPENAI_JUDGE_MODEL: str = Field(default="gpt-4o-mini")
+
     # LangSmith (optional)
     LANGCHAIN_TRACING_V2: bool = Field(default=False)
     LANGCHAIN_API_KEY: str = Field(default="")

@@ -1,11 +1,11 @@
 [
   {
-    "eval_id": "a34153a2-d364-4b39-820a-8b6187c6d7f0",
-    "interaction_id": "f5f73a2c-35c6-4c48-9f55-cdfaee443384",
+    "eval_id": "56f870e0-a68c-4aff-a97f-97d369cc439c",
+    "interaction_id": "40a8d23a-7ae7-44a1-b723-8cdb2ac136ef",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412340+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.197782+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -17,18 +17,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 299,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e52e5e9a-7ba5-4b74-87a3-56a72614548c",
-    "interaction_id": "02024233-f2e6-46dd-86bc-cfdb4b72d05f",
+    "eval_id": "29a2e2c9-d4eb-48ea-aba3-64b9de8d68cd",
+    "interaction_id": "a3ac781f-583a-473f-a540-625c46bf893d",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412361+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.197852+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -40,18 +40,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 523,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "faf0818b-7c8f-419a-aa3b-0286624934ff",
-    "interaction_id": "4f9316e9-e39c-4137-8615-4c4dfc2875f5",
+    "eval_id": "692dd67a-0215-419a-a827-8249bbf7c91c",
+    "interaction_id": "b61c31c5-4897-4c72-80c2-93ffa7ed3be0",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412379+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.197940+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -63,18 +63,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1153,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "4203b1d2-7e60-4810-a521-d17292e83638",
-    "interaction_id": "ec6070f3-b1c3-4476-9839-5c5d188aaa97",
+    "eval_id": "0058682b-4303-44c2-9414-2f5dfb43a9f6",
+    "interaction_id": "7c90f97f-33b5-4dbc-ae70-afc46af01a49",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412396+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198073+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -86,18 +86,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1513,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "a726a586-1f60-49c0-b14c-05fa67dcf4d1",
-    "interaction_id": "0377e5ab-7dca-4af4-95a9-8ff863e6dd6d",
+    "eval_id": "32837838-4e3c-4982-ab58-925ceca8ad95",
+    "interaction_id": "78567705-59cc-4efa-86d1-c15ed74dd71b",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412413+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198165+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -109,18 +109,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1305,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "8c16fb24-4a79-40f8-993b-371bda9966fb",
-    "interaction_id": "40171ccf-d571-4902-8bdc-c31df8af68f1",
+    "eval_id": "89cf39d9-b38c-492c-b339-c10cfe98aad5",
+    "interaction_id": "f8868f19-6785-43a5-ad05-4dbc24a51063",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412436+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198241+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -132,18 +132,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 572,
+      "output_len": 1036,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "653d0195-fe2f-4641-b29a-cd7bc29d30a6",
-    "interaction_id": "1bf513ee-fe75-49ba-a206-8ec838a38eee",
+    "eval_id": "cc11025f-2e12-4518-9224-f9f764a63a76",
+    "interaction_id": "f17d7cd6-6d73-474f-98dc-c800456218ae",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412453+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198349+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -155,18 +155,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1335,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "20ebab07-8167-4d06-a99a-2fa12b8a7b78",
-    "interaction_id": "8278750b-85b2-4dd8-ba72-c09f0fd568e4",
+    "eval_id": "7c67db38-4ece-426b-b323-6664ceff43fc",
+    "interaction_id": "6402be23-0209-4ea5-b959-ff301f37733f",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412469+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198391+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -178,18 +178,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 520,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "fd9812cf-1223-49ed-bcf1-0b6e627dbde8",
-    "interaction_id": "4d1a336e-7cf2-42f0-b75b-1bfe2f1603ab",
+    "eval_id": "c83c085a-6d7a-42fa-83f0-06c0fbecad92",
+    "interaction_id": "bc82a342-515a-4a56-ab1a-d1c7732ce362",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412486+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198436+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -201,18 +201,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 579,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "cffd8f5a-8aa9-453b-96f7-f010fc21a83e",
-    "interaction_id": "f5385fdb-4c42-4757-bf17-0523a266e441",
+    "eval_id": "6c7d0223-52ee-44d3-947b-d1ad575eb03f",
+    "interaction_id": "94943ceb-4df2-4c54-8278-14b5980d011c",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412503+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198541+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -224,18 +224,39 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1535,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "0ebcf405-610c-4887-a518-fa9c8756a57d",
-    "interaction_id": "94889fa2-7e52-49f2-85c9-3e3c0511a5fa",
+    "eval_id": "a20b6e7f-4b85-46d3-ad49-78caaf9b8514",
+    "interaction_id": "5edd927c-2548-4e80-89b5-73b6ba53cd5a",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412519+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198614+00:00",
+    "dimension": "reliability",
+    "score": 0.3,
+    "passed": false,
+    "threshold_used": 0.8,
+    "rubric_version": "reliability_v1",
+    "judge_model": "deterministic",
+    "judge_reasoning": "Agent returned an error response (marker: 'exception').",
+    "evidence_snippets": [],
+    "deterministic_checks": {
+      "error_detected": true,
+      "result": "FAIL"
+    },
+    "metadata": {}
+  },
+  {
+    "eval_id": "b33aaa4a-8587-4f5b-8d15-0efe3e55d925",
+    "interaction_id": "f7a361ad-b615-4681-9d13-b1335098297a",
+    "agent_id": "agt-mortgage-faq-001",
+    "model_version_id": "mv-mortgage-faq-v1.2",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198687+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -247,18 +268,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1036,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "b8973af0-8bd7-4dfb-aacb-bbe009d6a62a",
-    "interaction_id": "6cc33363-cff4-4c4f-b548-0d9c43c7992d",
+    "eval_id": "013edbcb-b57f-4443-9019-c70cd407fb31",
+    "interaction_id": "4eb639c3-97c7-49f3-8e26-3a608cae26e5",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412535+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198770+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -270,18 +291,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1214,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "b5dfa570-422c-48a3-8ad1-f15578c6c61e",
-    "interaction_id": "a671b469-e35d-477b-bfe1-9f61eac1c8d2",
+    "eval_id": "dda9d5f7-d851-4b96-bbaf-34ae58ee3e55",
+    "interaction_id": "e45f5d74-2162-4e3a-9d6b-7f3eccc4b5ce",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412558+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198834+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -293,18 +314,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 572,
+      "output_len": 835,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "40757823-1869-4345-b77b-0e531061d81d",
-    "interaction_id": "8bd5a9ce-52e9-4ca0-af3e-fae1e8f91387",
+    "eval_id": "a5d72914-b5b7-4e21-a9ce-22d9d30f91cc",
+    "interaction_id": "8ae63a93-5fb8-4b49-be44-4aa8a8b25600",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412575+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.198922+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -316,18 +337,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1284,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "577a18de-90fa-4ac5-a8b3-11515fd5a134",
-    "interaction_id": "22742e24-1550-435f-9c4f-5532a350a909",
+    "eval_id": "44dabb9e-f5f7-45a6-ac7f-a856da8a7668",
+    "interaction_id": "a611bc43-7c64-480d-a9e3-3bea392ebecb",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412591+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199011+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -339,18 +360,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1262,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "0d16921f-a42d-4025-862b-9fe25803ff0d",
-    "interaction_id": "50cf40ca-4670-4b01-bbd7-06e0a4fa2f96",
+    "eval_id": "66d6ef78-fdc5-4a16-94f8-47611b1dade1",
+    "interaction_id": "e2ab135b-b782-4868-abca-e48724115b1c",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412608+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199067+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -362,18 +383,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 766,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "35399f2c-bfdc-4ad1-badf-99cd0c22b88c",
-    "interaction_id": "a9ffba0b-22bf-4d27-9c13-db91b1a73d0f",
+    "eval_id": "106a3b7c-d739-4b42-83b3-3fc2b515b8c4",
+    "interaction_id": "0901bcfa-af37-4b85-a006-792b93849a23",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412624+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199161+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -385,18 +406,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1378,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "875b00b4-84ed-47ae-8c95-2f8841a03157",
-    "interaction_id": "38590739-024e-45cc-b090-6b05bcfe6615",
+    "eval_id": "648f2bfe-145f-48c4-b2d5-7037401148c9",
+    "interaction_id": "a9ff54ce-9736-4fc6-9936-ccfc56e995b4",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412641+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199208+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -408,18 +429,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 630,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "1d660e4b-7cb8-4e51-8094-4f0f6e2b5d9e",
-    "interaction_id": "e7a707a8-1cc4-465a-9b97-cc671752d0e8",
+    "eval_id": "e402c866-b549-48fa-86c3-361d03801016",
+    "interaction_id": "77407afc-7674-43ec-bb42-60bdaac6ddbd",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412659+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199315+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -431,18 +452,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1600,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "6caa2fa7-1500-4f3e-8f17-840bb0da4a8e",
-    "interaction_id": "777a0895-8d7e-4fa6-9a4c-bd3bdf843b33",
+    "eval_id": "3f53be97-7b1d-4413-b590-e7cc9cddb7f3",
+    "interaction_id": "4cf122f2-54f1-40a7-9cb4-01fd8577dbbc",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412677+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199351+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -454,18 +475,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 438,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e706050c-bb8b-4187-aac2-d0c50bf5bf6e",
-    "interaction_id": "265ac02c-bde9-4487-8bc0-3be5ebdb09dc",
+    "eval_id": "890c6acf-d5ac-4141-ba8a-c3b39a09bb4a",
+    "interaction_id": "56bed859-4b3f-4514-9aca-ef4faafeea08",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412695+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199400+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -477,18 +498,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 643,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "aaa7187f-b308-47cb-91dd-50fbb5592bfe",
-    "interaction_id": "0dc73d01-b2da-43e5-b05d-42fca7760f78",
+    "eval_id": "2c89f184-e585-4b1c-aac0-40b2b49243c6",
+    "interaction_id": "2e030291-c4fc-4e9f-9518-339bbb343103",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412710+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199490+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -500,18 +521,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1336,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "2dded6d6-0acf-4612-9b6a-33df8cbfdb0d",
-    "interaction_id": "9793c124-4e4a-404f-a4e4-9bc2c9367863",
+    "eval_id": "3a2d5c80-17c2-489a-b375-c1b04cdc279f",
+    "interaction_id": "90480db9-1e6b-4e97-a855-42fba57db70e",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412725+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199555+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -523,18 +544,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 917,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "69ec6b05-014a-404a-a2ff-fd1b75a2de21",
-    "interaction_id": "e20fe293-3350-4d7f-a46a-760ac131e2d0",
+    "eval_id": "995f1b9d-dc4e-499e-aedd-e78978e5b8df",
+    "interaction_id": "745e44a8-940f-488a-a142-b80e23eee982",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412745+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199614+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -546,18 +567,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 572,
+      "output_len": 808,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "1c14e6c2-d123-4277-821e-e495bcf259cf",
-    "interaction_id": "21cb0931-cd16-44ce-bdbc-10ff669c21e1",
+    "eval_id": "50284d32-eab3-4298-ad6b-d2d2c8f5474b",
+    "interaction_id": "b86ed9a6-949d-445d-9b54-3b1b45fe14d1",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412760+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199740+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -569,18 +590,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1581,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "6a3f69cf-e58d-424e-adfc-d88f5332d013",
-    "interaction_id": "449585b0-3bb0-429b-a9e0-ca42da438fad",
+    "eval_id": "3bd05883-6bcd-4f67-969a-726b9d8c2b85",
+    "interaction_id": "dc344c40-b38f-4de1-82c4-c4361635f8fe",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412775+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199801+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -592,18 +613,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 838,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "89ad7f19-3ea8-495f-91a5-6494c74810d4",
-    "interaction_id": "7eb0dbde-b29f-45b7-abe7-55dfce059750",
+    "eval_id": "01c1a9a5-c5eb-41b9-aa34-db6709fb7e86",
+    "interaction_id": "f7a80e55-faee-4c34-99e6-26392a6796e5",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412790+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199863+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -615,18 +636,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 847,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "0baaeabe-01bb-459a-a9cf-1cf214bb5bb6",
-    "interaction_id": "c317fa23-f86a-483e-8a9c-e62900e4c9db",
+    "eval_id": "31b63c5d-b8dc-48d3-8eb9-a309e63e26da",
+    "interaction_id": "335c66ed-54e1-4d9c-8e1e-c8aff331bf57",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412805+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.199975+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -638,18 +659,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1401,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "de763100-0fe7-4abe-9155-42a5375a84b9",
-    "interaction_id": "75d09efc-7f5d-40b5-8ffa-e5d4d8ebe5cb",
+    "eval_id": "ea862037-6942-45a6-8bad-a5557bc88f6f",
+    "interaction_id": "6678c0c1-f1b2-4180-82e1-950b70e0fecf",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412820+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200015+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -661,18 +682,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 391,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e63b7ec6-d428-4447-a013-c807a028d10f",
-    "interaction_id": "0543a8c2-893a-4ac9-a6a4-07276f95c7ab",
+    "eval_id": "3478379a-9c7d-4933-aefe-f9fe5b3ce06b",
+    "interaction_id": "36e8e52d-c8a1-4e4c-8577-954ff68a34af",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412835+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200107+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -684,18 +705,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1322,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "4cd74cf3-d341-4397-987f-c89264a621dc",
-    "interaction_id": "7317a733-245f-4f13-8901-603022ae0944",
+    "eval_id": "81932084-282d-4ac0-b7aa-8a075cb7953b",
+    "interaction_id": "6a08f2e1-cb97-4cc4-8725-53b72118d9d7",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412850+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200232+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -707,18 +728,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1823,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "b5996f7f-18cf-40a7-9313-b979856e4c80",
-    "interaction_id": "33390d3a-9527-4866-b56d-a976471a7cfa",
+    "eval_id": "0e9060c9-9642-4349-b2f1-ef2cd50db31a",
+    "interaction_id": "f417e844-7214-4e49-b82d-998a29b0fb6a",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412869+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200320+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -730,18 +751,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 572,
+      "output_len": 1263,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "b82fe76e-48f2-471d-b216-1f86386893c0",
-    "interaction_id": "349f7106-8335-4934-8cc3-49502a717b83",
+    "eval_id": "e9362603-4711-4ae9-8386-984508046cd5",
+    "interaction_id": "3a719e67-71b0-4dc9-a421-875f6f74e363",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412884+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200375+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -753,18 +774,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 731,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "13eff8fd-d59d-4cd1-ba00-a04d93485846",
-    "interaction_id": "aab25cb6-3ed5-4d14-868f-3ed08a0a4943",
+    "eval_id": "2b9b5875-43fc-41e7-8907-a19c2c296240",
+    "interaction_id": "5ef399a8-81f3-4745-8c22-3c6912826eb7",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412899+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200419+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -776,18 +797,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 547,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "d2cdcf46-92b0-4901-bdc6-4868791816c3",
-    "interaction_id": "4356d5f5-a0ae-4291-869a-4c8b6f5019f2",
+    "eval_id": "8cedc8a1-6ddd-4371-bcb9-1d9e5ee38d39",
+    "interaction_id": "164f56bf-0f83-4366-9484-4d5ecf178aba",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412913+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200471+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -799,18 +820,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 701,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "46d89e89-9b4c-4817-9575-5d94b4117da3",
-    "interaction_id": "ed79ff9b-76b9-44d7-add4-5e625b09e2e6",
+    "eval_id": "2d1a3fe3-45d6-44ed-ac86-49d00870f126",
+    "interaction_id": "acdfea71-3ef3-430f-ad62-0b21c0d3042c",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412928+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200552+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -822,18 +843,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1160,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "166fd7da-182b-4e08-9290-1b2dcf54d26d",
-    "interaction_id": "9a17d986-fa50-4c69-a2fa-83dd8381057b",
+    "eval_id": "7ff7fb00-79aa-4e8f-8feb-df7f0931fe1a",
+    "interaction_id": "f9217056-55fa-4552-ba49-15ecdb127a49",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412943+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200601+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -845,18 +866,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 636,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "82b102e7-56a1-401f-909d-c58882055b35",
-    "interaction_id": "b14d1c40-d943-4580-b9a5-6f49119f324d",
+    "eval_id": "997d0157-f02e-4173-971f-a0b2283c3128",
+    "interaction_id": "961a2881-9f81-4f1a-90c9-37ebc5bcacac",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412957+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200690+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -868,18 +889,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1366,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e292b404-ba3c-4e29-8a9f-a6983679faae",
-    "interaction_id": "2691bade-5f22-41a3-9db8-8b14aa1fe2e7",
+    "eval_id": "30eb7296-717d-4da4-ad14-c9ae358b8f49",
+    "interaction_id": "fa511750-f886-41ff-98f8-7b26278be2a4",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412972+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200739+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -891,18 +912,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 640,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "37cd3a1f-52b3-4862-8391-4d9e97ef9ad2",
-    "interaction_id": "5397525a-3ae3-4e74-bb74-6d83ec5115eb",
+    "eval_id": "88a9fa14-9f83-4f64-a893-12ae0b36bb6f",
+    "interaction_id": "b5ec08d6-db0e-4693-be6c-088f45b2eb5d",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.412987+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200818+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -914,18 +935,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1128,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e8e2ceb1-f039-48f6-aaf8-884fd7f90b2e",
-    "interaction_id": "6f25a559-9081-4c18-9617-26dcc04b5fdf",
+    "eval_id": "a9225fdd-bb60-4b8a-8fe9-36549bf06db7",
+    "interaction_id": "18a92dc6-6061-46bb-90ce-53807282c959",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413001+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200883+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -937,18 +958,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 922,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "f9b374c0-c98c-4f12-805e-9db784d0d5a7",
-    "interaction_id": "e4f09ace-b463-400d-869e-0bfe46579bbb",
+    "eval_id": "37a5dfcc-a096-4787-9692-b8fe90503625",
+    "interaction_id": "bbf97bda-3a12-40dd-9ddb-474b48bd0038",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413016+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.200962+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -960,18 +981,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1155,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "1e07bc86-2f16-49d0-b7ee-ce5de3849d94",
-    "interaction_id": "4216dde5-f822-45c5-8519-130bc4c61ec4",
+    "eval_id": "b6ff1125-8f87-4523-9f3a-c13c4a049b95",
+    "interaction_id": "94e5bf16-16b1-4db5-9679-bf4f0b9a9c67",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413030+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201029+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -983,18 +1004,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 941,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "890eec8d-dd28-459b-8a4a-144d5da33600",
-    "interaction_id": "8d2e18e9-37ca-48ef-9f9b-d1e3c08f8cc2",
+    "eval_id": "1a342001-e3cd-4503-b361-39dcff5db883",
+    "interaction_id": "63bf1e7a-6a3d-453f-8452-eb1b8dd2961c",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413045+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201166+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1006,18 +1027,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1717,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "4dad8886-b2e8-4041-b0b6-5672c76741c9",
-    "interaction_id": "c59f3291-b249-4d09-acb6-54f5a93b77cb",
+    "eval_id": "d5ad47e4-1221-42fe-9793-ff6e1e3f34ed",
+    "interaction_id": "5cde5361-d8db-4cde-9e3c-42ded11077cf",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413065+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201231+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1029,18 +1050,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 572,
+      "output_len": 947,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "f8e4e556-aae5-4cfb-be1e-ae0a01d62650",
-    "interaction_id": "d0f32c37-da5e-4996-a756-fa88436e3d6a",
+    "eval_id": "2d9bab6d-ddba-4df1-b346-4f0f0b61a615",
+    "interaction_id": "f90bdbf6-899f-468e-b090-cf5b8fb54ce0",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413079+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201298+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1052,18 +1073,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 969,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "2c64ac44-2d95-4cdf-b0ed-06411c18cf65",
-    "interaction_id": "ad59fd1e-0af3-436f-b1f4-271513597b17",
+    "eval_id": "f6e4860b-3787-421c-9e73-eca542de050e",
+    "interaction_id": "8f7dcf01-2c1b-42de-8ed4-4aaddddc42f8",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413094+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201380+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1075,18 +1096,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1197,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "24017802-33ff-4f26-8319-59605983b759",
-    "interaction_id": "0cee4214-a922-4e0a-ae02-54689c727615",
+    "eval_id": "3508a172-6d84-4c3a-a144-42daa5b3f252",
+    "interaction_id": "98e1f731-c392-4884-85af-2144af8f2941",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413109+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201509+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1098,18 +1119,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
+      "output_len": 1623,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "8ca47855-4d49-45b0-baf9-7c4dcbed76dc",
-    "interaction_id": "d1a90eaf-1dcb-40f3-84bb-44d40516489a",
+    "eval_id": "31c808dc-2541-49a3-9aa3-21fa08503298",
+    "interaction_id": "1bbe28a6-f9e0-49bd-9ff9-223e825fbbd0",
     "agent_id": "agt-mortgage-faq-001",
     "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413123+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:10:12.201577+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1121,30 +1142,7 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 397,
-      "result": "PASS"
-    },
-    "metadata": {}
-  },
-  {
-    "eval_id": "9797b3cb-d89f-4b65-9362-8c9074b468b4",
-    "interaction_id": "e373eceb-1ea1-4f0d-96bf-b6d4ad0b6823",
-    "agent_id": "agt-mortgage-faq-001",
-    "model_version_id": "mv-mortgage-faq-v1.2",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.413138+00:00",
-    "dimension": "reliability",
-    "score": 0.92,
-    "passed": true,
-    "threshold_used": 0.8,
-    "rubric_version": "reliability_v1",
-    "judge_model": "deterministic",
-    "judge_reasoning": "No PII leakage, errors, or completeness issues detected.",
-    "evidence_snippets": [],
-    "deterministic_checks": {
-      "pii_detected": false,
-      "error_detected": false,
-      "output_len": 397,
+      "output_len": 963,
       "result": "PASS"
     },
     "metadata": {}

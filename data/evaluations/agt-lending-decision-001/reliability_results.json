@@ -1,11 +1,11 @@
 [
   {
-    "eval_id": "c0449cc6-f2e4-4d6f-b5f0-58e6fad3a398",
-    "interaction_id": "8087e839-1d3a-4a7c-82fe-7116a54d40d6",
+    "eval_id": "7cdd1080-53a2-4700-801f-3a16912d00ba",
+    "interaction_id": "1162cf23-63df-4110-ac47-fa7f76df7c7f",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432442+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.891512+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -17,18 +17,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1254,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "37104281-0da6-4b6f-be2f-e82f3fed7e01",
-    "interaction_id": "6f5ad0d9-11c7-4992-8ffb-ace5d0f3683e",
+    "eval_id": "6ea8e83b-a564-4d98-ad7b-d53fc1498fa0",
+    "interaction_id": "7249b5b3-3a19-442d-9af9-42a80d8e727f",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432495+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.891738+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -40,18 +40,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2124,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "c4ae7ac5-01ef-4af1-8272-048e53cf33e1",
-    "interaction_id": "aa891cb2-731d-4354-a4ed-acb8fa9e5023",
+    "eval_id": "195bbd54-96e7-48ab-93c0-29c288dfaa81",
+    "interaction_id": "d1b393ad-bcd0-45b6-ae3a-c21004d9daa5",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432515+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.891852+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -63,18 +63,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1293,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "8a2316c9-3c2d-4191-8f3f-10cf5467f576",
-    "interaction_id": "ad7ff457-d117-4f51-93b3-e213e1c33acb",
+    "eval_id": "2441ea7e-899d-4013-8474-11ddc2621e17",
+    "interaction_id": "3087a921-58a2-44c3-a8de-7ae5f6a7445f",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432569+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892054+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -86,18 +86,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2167,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "716696a1-3d38-427d-903f-815ea848b2ad",
-    "interaction_id": "a50ca301-4187-40af-9b39-a713d0f695e0",
+    "eval_id": "8b12ce29-30b7-4cfb-9a0a-e31a90813a6c",
+    "interaction_id": "c81a11df-2777-4f2e-b618-24eb1cf0474d",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432588+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892175+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -109,18 +109,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1436,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "6210894c-a302-47c9-9527-f28664f4fa2d",
-    "interaction_id": "75dc28dc-5247-4dab-9b6c-d060acd0cf03",
+    "eval_id": "a647d951-efd4-4958-afef-a0588204a124",
+    "interaction_id": "56ec51df-82de-404f-8895-978a411d4b80",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432640+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892367+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -132,18 +132,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2107,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "76321857-3cf8-42f0-9fe7-9c5fa2dc1c2e",
-    "interaction_id": "a6185ac7-357f-4611-961d-61f052480465",
+    "eval_id": "597f0df3-6d16-4487-a740-aaaa59069a57",
+    "interaction_id": "216bb01b-07fc-45e1-a7ad-c8122bf3401d",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432659+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892471+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -155,18 +155,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1232,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "af89ec63-ee8f-44cc-9267-d3673551f792",
-    "interaction_id": "8cf3d839-4e6c-4b93-a30c-f0d38ebb77de",
+    "eval_id": "38e42afa-e00e-4fa4-98f5-d2fffd12f910",
+    "interaction_id": "946cf7bc-fcdf-4ddd-9abc-887980dd57f9",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432711+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892676+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -178,18 +178,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2343,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e7e38b62-73a9-4f6d-942e-c77c564658f2",
-    "interaction_id": "7bb9c242-3164-4565-b252-9a07154934c2",
+    "eval_id": "55c122e9-c7d3-45ca-8aa2-b6f0cc942555",
+    "interaction_id": "df38b879-94e5-4405-92f7-fe3ea4ad54e5",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432730+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892779+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -201,18 +201,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1218,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "d4c227b8-6e80-44f2-98fe-bce945ffc27c",
-    "interaction_id": "80b66d95-5a60-49f4-9cf8-7bcb445858f1",
+    "eval_id": "676566b6-fdd3-4540-9e7b-ad3afe3b672e",
+    "interaction_id": "1b8be93a-9218-4799-b295-d13f0fef1aa5",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432780+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.892949+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -224,18 +224,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2172,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "4a0104b3-ae0f-4ec8-b50a-1b0748f2fd2a",
-    "interaction_id": "a8d5965f-f703-487e-a8d8-c6dd73e37729",
+    "eval_id": "90c5bba4-df9f-4273-9ebf-caf003d4c65f",
+    "interaction_id": "b64936f3-b167-4837-bfdf-a73d6dcf40fd",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432799+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893051+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -247,18 +247,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1453,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "31c80c9b-0d81-4d11-8474-24d33c0337ba",
-    "interaction_id": "d2167bbc-3982-4d28-a0c2-363be1e14870",
+    "eval_id": "877322eb-cf18-49b3-957b-8013dac7dbba",
+    "interaction_id": "4b605a40-cffd-4991-95f2-edd5da80a3c8",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432847+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893204+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -270,18 +270,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2075,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "ae78a5b1-1c18-49d6-8335-6832f976a30d",
-    "interaction_id": "836eb737-dc82-4967-a42a-07654dcdb9b7",
+    "eval_id": "88f4fbc6-2e04-494b-8df6-02dcf6cedbf4",
+    "interaction_id": "695d026e-c289-468c-abb1-128c85b9f11a",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432865+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893296+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -293,18 +293,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1292,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "cb04546d-1e77-414f-bb51-99e4fb795dfc",
-    "interaction_id": "af64a29e-b8e1-4f3b-9d04-5079e7b8d88e",
+    "eval_id": "82fd5db6-8ef1-4d34-89a6-53a7266ffb04",
+    "interaction_id": "7d23ee11-ea38-42ba-8658-d58181c9b441",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432913+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893445+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -316,18 +316,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2024,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "ea735b49-6189-4f75-b177-4bcb37961129",
-    "interaction_id": "283e7cc8-9771-49aa-88cf-7b1b3953905d",
+    "eval_id": "6f1117c5-5569-4276-9f7b-2f020fca125e",
+    "interaction_id": "54a4461e-9f8e-4a85-a51f-2bf1836a6045",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432930+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893540+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -339,18 +339,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1343,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "b5b3c957-e04a-4c55-8460-5a757bd2cea1",
-    "interaction_id": "a67c0f37-252d-4a09-8d6a-e5920d0b40e2",
+    "eval_id": "ef5c1e0b-fca5-4357-9d38-db0d7241b232",
+    "interaction_id": "6022a5a7-ffb4-4558-822c-4e4367f86ab2",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432976+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893702+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -362,18 +362,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2188,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "6942431e-8f8c-4411-8b89-6ba3c9c82aa2",
-    "interaction_id": "ddd9f5f0-2391-4ccf-b33f-ede32a44ad81",
+    "eval_id": "b34ed901-06c8-422f-ad26-841d547b0465",
+    "interaction_id": "155c39fb-11dd-4574-bca1-d2e1631e50d9",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.432993+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893783+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -385,18 +385,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1135,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7ee56624-94d6-4cc3-9d30-717cbf654664",
-    "interaction_id": "7900ef77-bf33-43f3-9490-44c33e24b42e",
+    "eval_id": "be2e9d86-c169-4628-aa14-001b4573752d",
+    "interaction_id": "26cf79bb-0a25-4189-97a1-7b7fd2132b7c",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433039+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.893936+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -408,18 +408,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2056,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "adca93b0-b523-4e24-8805-06587b5c0884",
-    "interaction_id": "28406b2f-16c8-4035-ad65-ad617e7b3389",
+    "eval_id": "5bcef673-db72-4f23-a82f-ad19dc7c1459",
+    "interaction_id": "3a236773-cb4d-449d-9e00-76379fc4316c",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433055+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.894765+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -431,18 +431,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1311,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7ae08a89-ecd0-47f1-a0ef-3fe8a8864d78",
-    "interaction_id": "bca2e965-f1ca-4401-991e-c5a22f124f2c",
+    "eval_id": "a873c1cb-21d5-4579-b9c3-62b24eb1cf12",
+    "interaction_id": "faa64d4b-336f-4f82-ae3b-7cb7fdb7eca6",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433101+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.894934+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -454,18 +454,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2186,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "07ebb9f0-9eeb-4d8f-907a-2c75ac27e11f",
-    "interaction_id": "2aaf57fd-be77-481e-be13-beee57c2b3d0",
+    "eval_id": "806159bd-6249-4023-9942-3b4da738a895",
+    "interaction_id": "e149d131-e229-457e-9c2f-e6f70cbcd0ec",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433118+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895030+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -477,18 +477,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1345,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "5285cef8-a01a-42d7-ab41-cd348e651062",
-    "interaction_id": "6b6e46b6-bfd7-4b3c-9322-2ccea5569c04",
+    "eval_id": "9dec5531-a392-4ae9-b987-63071e54c3b5",
+    "interaction_id": "314ffac6-9389-4b52-af2d-c70636cc2c22",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433162+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895200+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -500,18 +500,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2170,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7b2660a9-12b1-4266-9120-b0a9e0a72be0",
-    "interaction_id": "0dc99c30-46db-4bcc-b0b5-b430237c05e0",
+    "eval_id": "6e94249e-6f63-428e-8039-cebab8892f23",
+    "interaction_id": "3742fa43-80d0-4b96-a442-0bea26d02957",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433178+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895295+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -523,18 +523,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1308,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "ecede2ed-0a0e-430f-86c4-8b27b07dda1f",
-    "interaction_id": "235ea859-c4fc-40b3-8ecf-bbd94aae2137",
+    "eval_id": "34c5d1d9-26d7-4034-a1c3-ac44d449e45a",
+    "interaction_id": "df462a04-d38b-4e2f-bc9e-677f25b0acc1",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433221+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895470+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -546,18 +546,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2276,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "6c5ea5ba-9b12-48ed-a5cf-ab7a058affce",
-    "interaction_id": "ca0b4eee-e3cc-4d47-8a6c-7e35b055a898",
+    "eval_id": "d272b68e-a96f-46ed-ab21-ae376ec7a95d",
+    "interaction_id": "8e8919b7-4eeb-4548-b4e7-4fd0881add9d",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433238+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895566+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -569,18 +569,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1389,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e6b3d4aa-8235-4fc0-9079-4f1447737b80",
-    "interaction_id": "06588852-e3b9-4871-a930-297252dda2a0",
+    "eval_id": "34e075d2-8860-4dba-9d13-873555a3f6a2",
+    "interaction_id": "8dc4fdb1-04fb-4cc1-8f1d-62feb5a92fe9",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433284+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895752+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -592,18 +592,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2394,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7dbb66d6-6e0d-46f3-aa28-bd67135d9c09",
-    "interaction_id": "86cde086-78dc-4d36-8670-c6e454eb26ba",
+    "eval_id": "eb6c37fe-c423-4a2a-a676-93f203cc148f",
+    "interaction_id": "070837e4-4847-41e3-a459-2bcdad04f933",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433301+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895836+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -615,18 +615,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1198,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "cd5535f5-3d22-4ae8-b647-b6b64a355284",
-    "interaction_id": "44607229-bc3b-4c3f-93e2-dacca28c856d",
+    "eval_id": "529d9bb3-89c7-4ca3-a18a-1e15802e5dde",
+    "interaction_id": "3b81da45-8a50-4d2a-9f83-61f3c7b8ecaf",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433346+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.895993+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -638,18 +638,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2081,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "0f5a0bbc-f3ef-43f6-a32e-ff5ced16dae5",
-    "interaction_id": "f0e9e823-b38c-4b3b-826b-de9551fd1a3f",
+    "eval_id": "ef874c3b-3352-45da-878a-39ea2a68c355",
+    "interaction_id": "c42281c8-2c0f-4ba1-8d52-85cdcd7c6c43",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433362+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896090+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -661,18 +661,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1388,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e6cbfe84-58e3-4d02-8e86-3d6c4564465f",
-    "interaction_id": "a1b3f73d-e044-471a-a2a2-c57dd1d51e4a",
+    "eval_id": "564df8d4-899c-4399-8252-2ae0ff669156",
+    "interaction_id": "ab38a1bc-dfab-41ed-937c-df7c7f5d1787",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433412+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896252+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -684,18 +684,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2156,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7e15b9b6-2848-454b-abe6-1ee325eb699b",
-    "interaction_id": "11948a86-15a2-4e22-8ce6-641003f0738b",
+    "eval_id": "4ba52d34-6fe1-4c28-89de-debf45f4a31c",
+    "interaction_id": "7daacb48-375d-47c7-8d85-9e159d29d024",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433428+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896339+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -707,18 +707,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1255,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "a643466a-8085-402d-8b81-1b09f5253171",
-    "interaction_id": "6620a764-5f42-4ee2-9c3c-9d5eea9164ff",
+    "eval_id": "1e9cd1f3-8f09-4d1e-8807-713a982538e3",
+    "interaction_id": "49ee6119-415f-4d95-8003-e4d8b7270bbc",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433473+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896498+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -730,18 +730,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2154,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "a1dc923d-9e73-4ec2-acb1-ce5bcbd45a08",
-    "interaction_id": "ba02da66-5b96-492b-b62f-8e9ddcb477f7",
+    "eval_id": "a353cc16-5aa7-47b5-8bb2-9dba63181691",
+    "interaction_id": "25fd6609-b8f3-4ec7-b1ae-3c1923ad660b",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433489+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896587+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -753,18 +753,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1309,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "95e20a50-b739-4fec-ae0f-7407feebf7c0",
-    "interaction_id": "75882d80-8d75-4d7c-ae59-b2f839eb674e",
+    "eval_id": "3a830280-25df-4d16-b1a3-b9a28f1260e0",
+    "interaction_id": "4fec3c16-07aa-4ffd-a2ef-472f2584dcb4",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433534+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896799+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -776,18 +776,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2067,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "fa2f0fa1-7519-4a96-b8a2-234557d31e4b",
-    "interaction_id": "4a33c813-775b-4660-8872-7daa94f90e4b",
+    "eval_id": "a4ce928c-9cc0-49a8-8d79-449c2b07e0f0",
+    "interaction_id": "406ed39b-0959-4150-af3d-bfc441df1b59",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433551+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.896884+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -799,18 +799,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1219,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7aca371e-45aa-4d7a-9e04-206e5d391da3",
-    "interaction_id": "2e08ad75-e3e1-4c0d-9da9-802e7865616e",
+    "eval_id": "af18ea95-27fc-41fe-97e9-38f3b5049ac6",
+    "interaction_id": "ed922881-88ca-44e9-93e0-f4619ee3beca",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433598+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897043+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -822,18 +822,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2143,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "ab93232f-4298-469d-a306-62843f2294e6",
-    "interaction_id": "ec7fca3b-0079-415b-b850-f8ec2d5ae067",
+    "eval_id": "aaebc4fd-0053-4240-965b-b7fa3b182d47",
+    "interaction_id": "bc9e3d19-b8d3-4639-a37b-722c816aade0",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433615+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897130+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -845,18 +845,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1252,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e3d04587-82aa-41b3-9ce4-4bb7f86cd0df",
-    "interaction_id": "5528b650-dbf7-4b8a-9d85-bcfdd3a35dc1",
+    "eval_id": "136a806e-9239-4c2c-b452-ec7201cad692",
+    "interaction_id": "0aa4f405-57b5-4691-a38d-ad31ee4bb854",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433659+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897287+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -868,18 +868,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2127,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "ea4b78fa-692c-4698-b4e5-01fc6cf6bd0d",
-    "interaction_id": "45ff9bae-a7c4-44ac-87d9-f1512b2b22fe",
+    "eval_id": "7c2734ba-bb8c-443f-9375-71fa14985231",
+    "interaction_id": "3c47bf3d-30d9-4430-9f4c-af1340f7cd6a",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433676+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897379+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -891,18 +891,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1364,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "dd5bc52c-7506-4951-a1cd-76e77011779d",
-    "interaction_id": "285b3229-b4a1-4394-95d8-cb5918728c77",
+    "eval_id": "c3d3c293-cc84-489d-8f0d-5e491f068e00",
+    "interaction_id": "0566247c-a302-435f-8a0a-614bcf58fa39",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433721+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897533+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -914,18 +914,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2083,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "5eaedd73-4a84-4cf2-a083-daaf26fc6a2f",
-    "interaction_id": "f8332195-b479-4f4c-91be-af0ba1290c4b",
+    "eval_id": "82dc3988-5fb7-4f31-872c-39b326790c7f",
+    "interaction_id": "49b045ab-a732-431c-a59e-c194a37ab942",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433737+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897621+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -937,18 +937,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1260,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7e799eb0-188e-41df-b3b7-900be0f1bf3f",
-    "interaction_id": "2709b8b2-2fde-4499-bfbf-53898143c192",
+    "eval_id": "2209b7bd-38b3-4d9d-b956-040d1c6439e0",
+    "interaction_id": "86bcd882-d420-493c-a0a9-f769b656934e",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433782+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897775+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -960,18 +960,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2053,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "1f7086e5-1f07-4cc1-be77-3ba000420834",
-    "interaction_id": "f6092818-8a29-492b-a7f2-a5de046a046f",
+    "eval_id": "d965a401-07ed-4eb0-a3a3-6399fec1c909",
+    "interaction_id": "716e0206-1126-4933-a318-e73d762afa7b",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433799+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.897871+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -983,18 +983,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1392,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "5a4b6bab-a105-4642-b057-84b4c7444b36",
-    "interaction_id": "790582c3-dc77-4e7c-82ec-a7bf220caafa",
+    "eval_id": "c62c5186-9974-405f-a71e-6eafc77c399a",
+    "interaction_id": "59075e91-956d-4ffa-b385-e48ed9608f85",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433844+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898023+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1006,18 +1006,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 1990,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "e8d88695-3e9e-4a93-ab09-c14624e368e7",
-    "interaction_id": "7583564f-8d09-4561-b5a3-4719ef19a244",
+    "eval_id": "df2b3e89-a449-40d1-8386-f96167039ad5",
+    "interaction_id": "af8a2013-6a83-4233-8bff-21df864a2885",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433860+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898109+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1029,18 +1029,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1253,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "57c2b954-56f6-4e27-9cc2-406077e64462",
-    "interaction_id": "74b5e9d1-1067-4860-b110-db224c57e15e",
+    "eval_id": "1b7ae289-2327-400e-ba38-84bff7086e5f",
+    "interaction_id": "ad21ebb2-1d5f-4bb6-a56f-17a81b558418",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433906+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898276+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1052,18 +1052,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2164,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "85bc8abb-7fea-41c4-9657-7b687211315a",
-    "interaction_id": "9821725f-7418-448e-a1bb-d4ad792b3eaa",
+    "eval_id": "0edad0d2-8c7a-4833-bd80-980157cf3afa",
+    "interaction_id": "f7e685f3-b8a5-4ccf-9b85-7be855296bd2",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433922+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898364+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1075,18 +1075,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1233,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "19e7a454-ec6b-4044-aedd-75b6e135818d",
-    "interaction_id": "099102aa-8537-478c-8cc3-432c5a2264bb",
+    "eval_id": "127772f7-2458-4583-8763-f1b151ba4492",
+    "interaction_id": "fcfd9970-2fe1-42f2-805d-79c1b9e3f3d3",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433967+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898515+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1098,18 +1098,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2031,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "7b565869-3feb-4b3d-ad66-04961d01d07c",
-    "interaction_id": "7585c9fa-abe5-4fa5-bbec-233f9abedf8e",
+    "eval_id": "79712076-411d-46ab-aa80-a7cf37dd685f",
+    "interaction_id": "46512d80-3956-436e-9e05-cdd64769d44d",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.433983+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898601+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1121,18 +1121,18 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 447,
+      "output_len": 1272,
       "result": "PASS"
     },
     "metadata": {}
   },
   {
-    "eval_id": "c0675070-b67f-4fc1-a9b6-7ad503ccb0dc",
-    "interaction_id": "9efccb38-8bbd-49b4-ac05-e6576c0c2e11",
+    "eval_id": "b3a72843-ddfc-4d74-a093-41f6dce72b26",
+    "interaction_id": "acbf1538-65a9-4e63-8628-5a8f462e8362",
     "agent_id": "agt-lending-decision-001",
     "model_version_id": "mv-lending-decision-v1.5",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.434028+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:12:19.898759+00:00",
     "dimension": "reliability",
     "score": 0.92,
     "passed": true,
@@ -1144,7 +1144,7 @@
     "deterministic_checks": {
       "pii_detected": false,
       "error_detected": false,
-      "output_len": 1306,
+      "output_len": 2105,
       "result": "PASS"
     },
     "metadata": {}

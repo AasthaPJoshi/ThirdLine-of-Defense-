@@ -1,27 +1,27 @@
 [
   {
-    "eval_id": "7c488ec8-cd14-4d85-baeb-0d6f48daca91",
-    "interaction_id": "4b96eebc-c767-4450-b2a8-7b76e079040d",
+    "eval_id": "9b1afa08-cd15-4ff5-b170-e78f149e583f",
+    "interaction_id": "890a6a11-d7e9-40da-bba2-998262bbcb17",
     "agent_id": "agt-compliance-qa-001",
     "model_version_id": "mv-compliance-qa-v1.0",
-    "eval_run_id": "eval-run-20260624-061331-aa4ab1",
-    "evaluated_at": "2026-06-24T06:13:31.446882+00:00",
+    "eval_run_id": "eval-run-20260625-050903-82b189",
+    "evaluated_at": "2026-06-25T05:14:59.861808+00:00",
     "dimension": "drift",
     "score": 1.0,
     "passed": true,
     "threshold_used": 0.8,
     "rubric_version": "drift_v1",
     "judge_model": "deterministic_psi",
-    "judge_reasoning": "Drift evaluation: PSI = 0.0000 (threshold: 0.2). Early window avg output length: 424 chars. Late window avg output length: 424 chars. Quality drop: 0.0%. PASS \u2014 stable output distribution.",
+    "judge_reasoning": "Drift evaluation: PSI = 0.0266 (threshold: 0.2). Early window avg output length: 580 chars. Late window avg output length: 595 chars. Quality drop: -2.7%. PASS \u2014 stable output distribution.",
     "evidence_snippets": [
-      "Early sample (idx 0): Based on the institution's AML Policy (version 3.2, effective Jan 2024), all cash transactions above $10,000 must be reported via a Currency Transacti",
-      "Late sample (idx 30): Based on the institution's AML Policy (version 3.2, effective Jan 2024), all cash transactions above $10,000 must be reported via a Currency Transacti"
+      "Early sample (idx 0): The threshold for filing a Currency Transaction Report (CTR) is any transaction involving more than $10,000 in currency. This applies to both cash dep",
+      "Late sample (idx 30): The threshold for filing a Currency Transaction Report (CTR) is $10,000 in currency transactions conducted by or on behalf of a single person during a"
     ],
     "deterministic_checks": {
-      "psi": 0.0,
+      "psi": 0.0266,
       "psi_threshold": 0.2,
-      "avg_output_len_early": 423.9,
-      "avg_output_len_late": 423.9,
+      "avg_output_len_early": 579.6,
+      "avg_output_len_late": 595.4,
       "drift_start_index": 30,
       "result": "PASS"
     },

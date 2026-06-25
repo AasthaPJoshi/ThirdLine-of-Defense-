@@ -208,22 +208,21 @@ class BaseAgent(ABC):
     # ── LLM initialisation ────────────────────────────────────────────────────
     def _init_llm(self):
         """
-        Initialise the LLM client. Uses Gemini if API key is set,
-        otherwise falls back to a mock LLM for fully-offline testing.
+        Initialise LLM client. Uses OpenAI GPT-4o-mini if key available,
+        otherwise falls back to mock mode for offline testing.
         """
-        if settings.GEMINI_API_KEY and settings.GEMINI_API_KEY != "your-gemini-api-key":
+        openai_key = getattr(settings, "OPENAI_API_KEY", "")
+        if openai_key and openai_key not in ("", "your-openai-api-key"):
             try:
-                import google.generativeai as genai
-                genai.configure(api_key=settings.GEMINI_API_KEY)
-                return genai.GenerativeModel(
-                    model_name=settings.GEMINI_MODEL,
-                    system_instruction=self._system_prompt,
-                )
+                from openai import OpenAI
+                client = OpenAI(api_key=openai_key)
+                logger.info("agent_llm_ready", agent=self.agent_id, provider="openai", model="gpt-4o-mini")
+                return client
             except Exception as e:
-                logger.warning("gemini_init_failed_using_mock", error=str(e))
+                logger.warning("openai_init_failed_using_mock", error=str(e))
                 return None
         else:
-            logger.info("no_gemini_key_using_mock_llm", agent=self.agent_id)
+            logger.info("no_llm_key_using_mock", agent=self.agent_id)
             return None
 
     # ── PII scrubbing ─────────────────────────────────────────────────────────
@@ -393,8 +392,16 @@ class BaseAgent(ABC):
             # Mock response for offline development
             return self._mock_response(prompt)
 
-        response = self._llm.generate_content(prompt)
-        return response.text
+        response = self._llm.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": self._system_prompt},
+                {"role": "user",   "content": prompt},
+            ],
+            temperature=0.3,
+            max_tokens=600,
+        )
+        return response.choices[0].message.content
 
     def _mock_response(self, prompt: str) -> str:
         """
@@ -402,7 +409,7 @@ class BaseAgent(ABC):
         Subclasses can override for more realistic mocks.
         """
         return (
-            f"[MOCK RESPONSE — set GEMINI_API_KEY in config/.env for real LLM calls] "
+            f"[MOCK — set OPENAI_API_KEY in config/.env for real responses] "
             f"Responding to: {prompt[:100]}..."
         )
 

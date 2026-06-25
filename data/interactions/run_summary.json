@@ -1,8 +1,8 @@
 {
-  "run_id": "fleet-run-20260624-055256",
-  "run_start": "2026-06-24T05:52:56.548385+00:00",
-  "run_end": "2026-06-24T05:53:12.191408+00:00",
-  "duration_seconds": 15.643023,
+  "run_id": "fleet-run-20260625-045423",
+  "run_start": "2026-06-25T04:54:23.083025+00:00",
+  "run_end": "2026-06-25T05:07:46.944590+00:00",
+  "duration_seconds": 803.861565,
   "agents_run": 5,
   "interactions_per_agent": 50,
   "total_interactions": 250,

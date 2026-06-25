@@ -4,7 +4,9 @@
       "agent_id": "agt-mortgage-faq-001",
       "expected_defect": "hallucination",
       "finding_dimensions": [
-        "hallucination"
+        "hallucination",
+        "reliability",
+        "drift"
       ],
       "detected": true,
       "tp": 1,
@@ -14,7 +16,8 @@
       "agent_id": "agt-kyc-summary-001",
       "expected_defect": "reliability",
       "finding_dimensions": [
-        "reliability"
+        "reliability",
+        "drift"
       ],
       "detected": true,
       "tp": 1,
@@ -24,7 +27,8 @@
       "agent_id": "agt-lending-decision-001",
       "expected_defect": "bias",
       "finding_dimensions": [
-        "bias"
+        "bias",
+        "drift"
       ],
       "detected": true,
       "tp": 1,
@@ -34,6 +38,8 @@
       "agent_id": "agt-fx-posttrade-001",
       "expected_defect": "drift",
       "finding_dimensions": [
+        "hallucination",
+        "reliability",
         "drift"
       ],
       "detected": true,
@@ -44,6 +50,7 @@
       "agent_id": "agt-compliance-qa-001",
       "expected_defect": "robustness",
       "finding_dimensions": [
+        "hallucination",
         "robustness",
         "reliability"
       ],
@@ -53,11 +60,11 @@
     }
   ],
   "tp": 5,
-  "fp": 1,
+  "fp": 8,
   "fn": 0,
-  "precision": 0.8333,
+  "precision": 0.3846,
   "recall": 1.0,
-  "f1": 0.9091,
+  "f1": 0.5556,
   "agents_evaluated": 5,
   "agents_detected": 5
 }
