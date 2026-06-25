@@ -4,7 +4,20 @@ export default {
   theme: {
     extend: {
       colors: {
-        brand: { DEFAULT: '#1B4F72', light: '#2980B9', dark: '#154360' },
+        surface: {
+          bg:       '#040D1A',
+          card:     '#0A1628',
+          elevated: '#0F1F38',
+          border:   '#1A2E4A',
+          hover:    '#132040',
+        },
+        brand: {
+          primary: '#1B6EF3',
+          accent:  '#00D4FF',
+        },
+      },
+      fontFamily: {
+        mono: ['JetBrains Mono', 'Fira Code', 'monospace'],
       },
     },
   },

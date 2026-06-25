@@ -2,7 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+* { box-sizing: border-box; }
 body {
-  @apply bg-gray-950 text-gray-100;
+  margin: 0;
   font-family: 'Inter', system-ui, sans-serif;
+  background: #040D1A;
+  color: #E8EDF5;
+  -webkit-font-smoothing: antialiased;
+}
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: #040D1A; }
+::-webkit-scrollbar-thumb { background: #1A2E4A; border-radius: 2px; }
+
+@layer components {
+  .badge-critical { @apply text-xs font-bold px-2 py-0.5 rounded bg-red-500/10 text-red-400 border border-red-500/30; }
+  .badge-high     { @apply text-xs font-bold px-2 py-0.5 rounded bg-orange-500/10 text-orange-400 border border-orange-500/30; }
+  .badge-medium   { @apply text-xs font-bold px-2 py-0.5 rounded bg-yellow-500/10 text-yellow-400 border border-yellow-500/30; }
+  .badge-low      { @apply text-xs font-bold px-2 py-0.5 rounded bg-blue-500/10 text-blue-400 border border-blue-500/30; }
+  .badge-success  { @apply text-xs font-bold px-2 py-0.5 rounded bg-green-500/10 text-green-400 border border-green-500/30; }
+  .badge-neutral  { @apply text-xs font-bold px-2 py-0.5 rounded bg-slate-500/10 text-slate-400 border border-slate-500/30; }
+
+  .dim-hallucination { @apply text-xs px-2 py-0.5 rounded bg-purple-500/10 text-purple-300 border border-purple-500/25; }
+  .dim-bias          { @apply text-xs px-2 py-0.5 rounded bg-pink-500/10 text-pink-300 border border-pink-500/25; }
+  .dim-drift         { @apply text-xs px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-300 border border-cyan-500/25; }
+  .dim-robustness    { @apply text-xs px-2 py-0.5 rounded bg-red-500/10 text-red-300 border border-red-500/25; }
+  .dim-reliability   { @apply text-xs px-2 py-0.5 rounded bg-blue-500/10 text-blue-300 border border-blue-500/25; }
+
+  .status-pending  { @apply text-xs px-2 py-0.5 rounded bg-yellow-500/10 text-yellow-400 border border-yellow-500/25; }
+  .status-approved { @apply text-xs px-2 py-0.5 rounded bg-green-500/10 text-green-400 border border-green-500/25; }
+  .status-rejected { @apply text-xs px-2 py-0.5 rounded bg-slate-500/10 text-slate-400 border border-slate-500/25; }
 }
