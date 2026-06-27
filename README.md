@@ -4,7 +4,7 @@
 <div align="center">
 
 # ThirdLine
-### Agentic AI Audit and Governance Platform 
+### Agentic AI Audit and Governance Platform  
 
 *The Third Line of Defense for the era of AI agents.*
 
